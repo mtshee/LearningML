@@ -19,7 +19,7 @@ Free Udacity Courses: https://www.udacity.com/courses/all
 
 ML & Data Science Python: https://github.com/ujjwalkarn/DataSciencePython
 
-Khan-Academny-esque ML videos: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
+Khan-Academy-esque ML videos: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 
 Free Machine Learning Textbooks: https://hackerlists.com/free-machine-learning-books/
 
